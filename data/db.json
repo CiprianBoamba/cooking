@@ -36,6 +36,32 @@
       ],
       "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
       "cookingTime": "35 minutes"
+    },
+    {
+      "title": "spaghetti",
+      "ingredients": [
+        "cheese"
+      ],
+      "method": "cook for bla",
+      "cookingTime": "20 minutes",
+      "id": "NLK5V2o"
+    },
+    {
+      "title": "Veg Pie",
+      "ingredients": [],
+      "method": "bla bla",
+      "cookingTime": "20 minutes",
+      "id": "y_Dx27W"
+    },
+    {
+      "title": "veg pie",
+      "ingredients": [
+        "mushrooms",
+        "tea"
+      ],
+      "method": "bla vbn ",
+      "cookingTime": "10 minutes",
+      "id": "DsQwCAC"
     }
   ]
 }
