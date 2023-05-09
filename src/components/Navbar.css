@@ -13,6 +13,7 @@
   margin-right: auto;
   color: #fff;
   text-decoration: none;
+  cursor: pointer;
 }
 .navbar a:last-child {
   color: #fff;
